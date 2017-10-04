@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="18" height="13" tilewidth="48" tileheight="48" nextobjectid="6">
+ <tileset firstgid="1" name="Capture2" tilewidth="48" tileheight="48" tilecount="204" columns="17">
+  <image source="../MapsTiles/Capture2.PNG" width="818" height="578"/>
+ </tileset>
+ <tileset firstgid="205" name="Capture3" tilewidth="48" tileheight="48" tilecount="38" columns="19">
+  <image source="../MapsTiles/Capture3.PNG" width="924" height="97"/>
+ </tileset>
+ <tileset firstgid="243" name="!Door2" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../MapsTiles/!Door2.png" width="576" height="384"/>
+ </tileset>
+ <layer name="tile1" width="18" height="13" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3Px0pDQQAF0Pydgn1lIRrd2VtUiBWsYAfbwhZjX9i7C3v3pzwLF4/w1HyAF85ihstlJhL5TybJIjtwziGXPPIpoJCiXzaKKaGUsu+7KOVUEKOSqj/eUk0NtdRRTwONNNFMC63EaaOdjrSdBJ100U0PvfQFOv0MMMgQw4yk7YwyxjgTTDLFdKAzwyxzzLMQ8q9FllhmhVWSrJFinQ022WKbHXZDtvbY54BDjjjmhFPOOOeCS664Dtm54ZY77nngkSeeeeGVN9754DNk56dEM+x9AaRcUJqoAwAA
+  </data>
+ </layer>
+ <layer name="tile2" width="18" height="13">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC6XNuTKfURzH4ddOJLFlFyF2SWwRgsQuZihtjc56CZTSUVKRSwh3EO7A2I1YL8IVeIozo+H/Fr4zT3V+8zlJURQlk0IqaaSTQSZZPCGbpzzjOTnkkscN+RTwgpe84jVveMs7CnlPER8opoSPlIZOGeVUUEkV1dTwic98oZY66mmgka80hc43mmnhO6200c4PftJBJ11000MvffSHzi8GorsNMhQl3jAjjDIWOuP33E0kaEwyxTQzzIbOXMzfcZsPnYWYu0V+J3hfCp3lmM4Kqw+8rbEeOn9iOnH7GzobbD6i8y90tth+RGcndHbZY58DDjnimJNwe8p/zjjngkuuuA6dW4zGwyuoAwAA
+  </data>
+ </layer>
+ <layer name="tile3" width="18" height="13" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBQMFPhPpDoAK/Ld/KgDAAA=
+  </data>
+ </layer>
+ <layer name="tile4" width="18" height="13" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBQMdgAATodJFagDAAA=
+  </data>
+ </layer>
+ <layer name="tile5" width="18" height="13" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGHigONAOGAWjYJADAIAFZdioAwAA
+  </data>
+ </layer>
+ <layer name="tile6" width="18" height="13" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBQMdgAATodJFagDAAA=
+  </data>
+ </layer>
+ <layer name="tile7" width="18" height="13">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBQMdgAATodJFagDAAA=
+  </data>
+ </layer>
+</map>

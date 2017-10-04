@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="18" height="11" tilewidth="48" tileheight="48" nextobjectid="12">
+ <tileset firstgid="1" name="Capture4" tilewidth="48" tileheight="48" tilecount="198" columns="18">
+  <image source="../MapsTiles/Capture4.PNG" width="865" height="531"/>
+ </tileset>
+ <tileset firstgid="199" name="!Crystal" tilewidth="48" tileheight="48" tilecount="192" columns="12">
+  <image source="../../../VM/RPGxMaker/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/NewData/img/characters/!Crystal.png" width="576" height="768"/>
+ </tileset>
+ <tileset firstgid="391" name="!Door2" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../../../VM/RPGxMaker/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/NewData/img/characters/!Door2.png" width="576" height="384"/>
+ </tileset>
+ <tileset firstgid="487" name="!Door2" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../MapsTiles/!Door2.png" width="576" height="384"/>
+ </tileset>
+ <tileset firstgid="583" name="Evil" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../../../VM/RPGxMaker/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/NewData/img/characters/Evil.png" width="576" height="384"/>
+ </tileset>
+ <tileset firstgid="679" name="Monster" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../../../VM/RPGxMaker/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/NewData/img/characters/Monster.png" width="576" height="384"/>
+ </tileset>
+ <tileset firstgid="775" name="Damage3" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../../../VM/RPGxMaker/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/IGG-RPG.Maker.MV.v1.0.1.IncluDLC/NewData/img/characters/Damage3.png" width="576" height="384"/>
+ </tileset>
+ <layer name="tile1" width="18" height="11" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC53NSS+fURQH4NdYig0VtIYVNVe/QTf9AjYqxoUtRQdLc4saWkkNrYQgZgmtkJqnfq8+Td7FP/pviJM8ufee3PM7MUEQxBJHPAkk8oAkknlICqmkBf9WOhk8IjPsZZFNDo95Qi555FMQJedvFVLEU4opoZQyyqmgkmdU8fw/OXepF1F6L++RUx2lV8MrasN3HfU00EgTzTdmWu6wq5U2XtNOB5284S3veE/XLTnd9NBLH/0MMMgHPjLEMCN8YpQxxpngM1+YjMhd4StTTDPDLN/4zlz4b56F8L7IEssRGaussc4Gm2yxHbFrh11+8JM99kMH/OKQI44jzhNOOeOcCy654prf/AGcUph0GAMAAA==
+  </data>
+ </layer>
+ <layer name="tile2" width="18" height="11" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC53QNwoCQRTG8T2BobE2ncCcxYCuWTEUdipmDyCmU1gLFrZ6Rf/CFLqIvt0PfjDpzTxG08zHBjsccH7ZdwnvccMDL3zwW+jllQCCCCGMCKKIIY4EkkghjQyyqjaHPAooqrUSytBRQRU11NFAEy200VE1XfTQx8DQ3/BH7yOMMVHzKWaYY4ElVlhj8/cnPrPFTtnjgCNOJu+R5iw8d3kbXw17N0H9HQ/hW1bzBF+hxjwYAwAA
+  </data>
+ </layer>
+ <layer name="tile3" width="18" height="11" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgIA58ZiRS4SgYBYMUkJKGAZHDtf8YAwAA
+  </data>
+ </layer>
+ <layer name="tile4" width="18" height="11" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGHpAj5l4tZa0c8YoGMYAAC7hmWwYAwAA
+  </data>
+ </layer>
+ <layer name="tile5" width="18" height="11">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjgHIweaAdQGUAALAKcJ4YAwAA
+  </data>
+ </layer>
+ <layer name="tile6" width="18" height="11" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGHpgI9NAu2AUDHcAABFXsa8YAwAA
+  </data>
+ </layer>
+ <layer name="tile 7" width="18" height="11" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBSgAwA9/TNpGAMAAA==
+  </data>
+ </layer>
+</map>

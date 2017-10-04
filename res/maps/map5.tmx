@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="17" height="49" tilewidth="48" tileheight="48" nextobjectid="9">
+ <tileset firstgid="1" name="Capture20" tilewidth="48" tileheight="48" tilecount="204" columns="17">
+  <image source="../MapsTiles/Capture20.PNG" width="818" height="579"/>
+ </tileset>
+ <tileset firstgid="205" name="Capture21" tilewidth="48" tileheight="48" tilecount="252" columns="21">
+  <image source="../MapsTiles/Capture21.PNG" width="1053" height="577"/>
+ </tileset>
+ <tileset firstgid="457" name="Capture22" tilewidth="48" tileheight="48" tilecount="204" columns="17">
+  <image source="../MapsTiles/Capture22.PNG" width="817" height="577"/>
+ </tileset>
+ <tileset firstgid="661" name="Capture23" tilewidth="48" tileheight="48" tilecount="204" columns="17">
+  <image source="../MapsTiles/Capture23.PNG" width="818" height="578"/>
+ </tileset>
+ <tileset firstgid="865" name="!Door2" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../MapsTiles/!Door2.png" width="576" height="384"/>
+ </tileset>
+ <tileset firstgid="961" name="!Flame" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../MapsTiles/!Flame.png" width="576" height="384"/>
+ </tileset>
+ <tileset firstgid="1057" name="boss" tilewidth="48" tileheight="48" tilecount="1" columns="1">
+  <image source="../boss.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="1058" name="boss1" tilewidth="48" tileheight="48" tilecount="96" columns="12">
+  <image source="../boss1.png" width="576" height="384"/>
+ </tileset>
+ <layer name="tile1" width="17" height="49" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3TV2xVdRwH8La3rT6hbWkLPMrG8UJihLIEXhBkihKFIMNB2EMJskkEoqiMB0jcqIxERUJUUBBFRNktMwxlFBCB0JYpKIQPcJocbnK5p94HE8I/95P/Ob/xzX24Ny3tzj2P0YSmFNGM5rSgJa0iZLTjCdrTgSfpGPQ60yVCxrM8R096BbXewd2HvhEyBjKIwQxhKMMYzghGJtgbw2uMZRzjmcBEJjGZKXE7U5kWen+DN5nBW7zNO8xkFrOZE5cxl3mh93d5j/f5gA/5iI+Zzyd8ymcsYCGLWBzK+Jwv+JIlfMXSoLcsuL/mG75lOSv4LpSxih9YzY/8xJqgtza41/Erv7GeDWwMZWxhK8WUBLXt7GAnu9gd1Pewl33sD2WUcoSjHAtqx/mLE5zkVFA/TRnlVIQy/uYSl/mHf7nC1cqBdJ/0m/WYO5MsstPTbjnVvN/H/eSQS14wk+8uoJAa1KRW3H7lqaNel3rUpwENacSDPMTDPJJg//ppoteUIprRnBa0pBWP05o2t8noqNeJznShK914iu48zTP0uE1G/HnJ7MsMqMJO/BlndzwTUsiYZXc2c1LIWGB3IYtSyPje7kpWpZBRbLeEbSlkHLJ7mNIqZpSZL6eCM5zlHOe5wMUoeRn+X2QQI5MssrmHezOSR+SYySWP6uRTQCE1qBkh4wEztRPMNVRvFCGjcZKZoggZbZPMdEjQ76reLeh1T5LRK+j3dj8fmu3nuT8v8GKSjCH6QxnG8NDsKM+v8Cqjk2RM1J/EZKaEZl/3PJVpTGdlgpw16j+zll9YF5pb73kDG9nEZrawlWJK2MZ2drCTXewOZez1vI/9/M4fHOAghzhMKUc4yjH+5HiC73tavYxyKjjDWc5xngsRfh83Tsx/hgxiZJJFdizivpNjNpc8qpNPAYVVyKg8dezUpd5/2A2fR1Pcv5vx/2VcAxvucFwEDQAA
+  </data>
+ </layer>
+ <layer name="tile2" width="17" height="49">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+XVSWxVVRgH8NdXtbSlg4oKbekIbaEtHWhpQSB2pAyFRJFSMERliOK4UJwWzisnFgUVJ5wWyiQLx0SGKHHjsFAT47xQEaEujImADP6adxtfXt4rr9KdJ/nlu+ecr/+83ntzT0ooFAqTyjmcy3mkMYZ0MshkLFlkk0Mu53MBFzKOi7iYSxjPBPLIp4CJFFJEMSWUUsYkJlNOBZVMYSpVVFPDNGqpo54GptNIEzNoDiU3WmmjnQ466WIe3UlmXM4VLOVKltHLcvri9K8K6tVRa6tZw1rW8WxKKHSdej3rk/wdt3E7G+gPRzLOZow0o59NbD6LjNH4Hf8l44OgHhgm4+NQ8u9VojH43pfHWT+YoH8gztofCTL+TI2fEW89zb3YTdYw92TcMHv59go4QCllI3w+tfrrqA8ymmkZYUaH/k66goxF9Iwwo0//ClYGGddwLatZw1rWxWSuN7+BG7mJm7mFW4OMDdzBndzF3dwTk3Gv+X3czwM8yEM8HGQ8wqM8xuM8wcaYjH7zTWzmSZ7iabYEGVt5kZd4mVd4NSbjNfPX2cZ2drCTXUHGm7zF27zDu7wXk7HHfC/72J8S+a4P+jAl8k0fMvjOfmLtUz6Lyfjc/Au+TPn3bBjytbVv+Jbv+J4f+DEm4yfzn/mFg/zKIX7jMEcY4Pck35Gj+o5xnL85wUlOcTrJjHTfnQwyGUsW2eSQG04uI09fPgVMpJAiiimJypjkejLlVFAZtVflupoapoUjz6JOrach6GtUm5hBMy3MZFawP1udw9xw5OwdzGh13UZ70NOpdjGPbuazgIXBfo+6mCVRGUNjadCzTO1lOX2sYCVXBfurov6v2IyhsUXPM4PffJ7jeV5ga5x7nihjm97t7GAnu3iD3QkyEp0v7+vfw172sT/Bc/9oFM65r0Yh41A4cjYcVo8wkOR7+pe+oxzjOIucOyfUk5zi9Bly0vSPIZ0MMlMjGVlkk0NugjNuaIy3P4E88ikIMgopopgSSimLyaowr2QKU6mimpogo5Y66mlgOo00BTnNagszmcWlzGYOc4OMy2iljXY66KQryOhW57OAhcHf9LCYJcE8keiM4fr+Lxm9QUbfGfr+Ad2/vawEDQAA
+  </data>
+ </layer>
+ <layer name="tile3" width="17" height="49" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3KsQ0AAAgDoCbe6/9rT3A3MJMAAAD8sHOfArsc+iAEDQAA
+  </data>
+ </layer>
+ <layer name="tile4" width="17" height="49" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3MMQ0AAAgDsCXc+LeLiCVcrYAmnZ0yAAAAeHRQhYXdBA0AAA==
+  </data>
+ </layer>
+ <layer name="tile5" width="17" height="49" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OAQ0AAAgDoM/+FexqDJ2DBCQAAP90bQ+Aqwb1euVcBA0AAA==
+  </data>
+ </layer>
+ <layer name="tile6" width="17" height="49" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAUDAZRYBtoFo2Aog+8D7QAouM04eOwfaLcMdTDcws98mPlnFAwcWMc00C4YBaNgaAM/5oF2AXYAAPQGQ5AEDQAA
+  </data>
+ </layer>
+ <layer name="tile7" width="17" height="49" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoAxIM1NowBAF/gPtACqDZiBuAeLWgXYIGWATlN4yQPbfIFGcHuD/ANo9CkbBKBgFo2AUjIJRMNgBALoYigQEDQAA
+  </data>
+ </layer>
+</map>
